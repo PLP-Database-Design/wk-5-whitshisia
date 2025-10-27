@@ -24,7 +24,7 @@
 **System Under Test:** Word Puzzle Game Plus  
 **Technology Stack:** HTML, CSS, Vanilla JavaScript  
 **Environment:** Chrome 118 / Windows 11 (DevTools responsive mode tested)  
-**Code Base:** https://github.com/PLP-Database-Design/wk-5-asmeyb-1/
+**Code Base:** https://github.com/PLP-Database-Design/wk-5-whitshisia/
 
 ### Features Under Test
 
