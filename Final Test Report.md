@@ -135,30 +135,34 @@
 | **Report Assembly** | Final Test Summary Report   | Compiled and submitted | None         | Test Manager  |
 
 
-**Progress Tracking Method:**  
-**Change Control Notes:**
+**Progress Tracking:** Daily burn-down in GitHub Project, WhatsApp Group and Google Meet  
+**Change Control:** Any scope change discussed in Teams channel → logged as issue #15
 
 ## Lessons Learned
 
-- Most Defect Prone Feature: 
-- Risk Analysis Impact: 
-- Team Communication Effectiveness: 
-- Improvements for Next Cycle: 
+- Most Defect Prone Feature: Bonus-round arithmetic (off-by-one)
+- Risk Analysis Impact: 83 % coverage focused 70 % of effort on high-priority areas
+- Team Communication Effectiveness: It was very good communication we use WhatsApp for texting & Google Meeting to take meetings and of course email conversation
+- Improvements for Next Cycle: Automate regression with Cypress  
+                             : Add accessibility risk category  
+                             : Introduce static analysis (ESLint) to catch JS off-by-one earlier
+  
 
 ## Attachments
 
-- 
+- # Nothing to attache here
 
 ## Sign Off
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| | Test Manager | | |
-| | Risk Analyst | | |
-| | Test Executor | | |
+| Asmamaw Yismaw | Test Manager | A.Y | 10/26/26 |
+| Jostina Mwamburi | Risk Analyst | J.M|10/26/2025 |
+| Whitney Shisia | Test Executor | W.S| 10/26/2025|
 
 ## Overall Summary
 
 **Statement:** 
 
-**Test Status:** ☐ Completed / ☐ In Progress / ☐ Deferred
+**Test Status:** ✅ Completed / ☐ In Progress / ☐ Deferred
+
